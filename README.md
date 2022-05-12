@@ -24,3 +24,5 @@ JDBC drivers</br>
 MySql WorkBench</br>
 Android Phone/Emulator</br>
 Internet Connectivity</br>*
+## Document 
+[Link](https://docs.google.com/document/d/1XmKuh44-js2GaiXvGQtXQXZ68lAC7Rg6s5F3GsCrWdM/edit?usp=sharing)
